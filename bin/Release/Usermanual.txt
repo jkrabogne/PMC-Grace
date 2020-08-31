@@ -1,0 +1,22 @@
+Monitoring and Advertising System for Members in PMC-Grace (Montalban)
+
+*Keeps updated information on members, volunteers and visitors such as contact numbers, addresses and activity involvement.
+
+*Organizes and manages event activity and plans
+
+* Facilitates community-wide communication and outreach activities to increase member participation.
+
+*There are also communication features to easily inform and update members of any changes in schedule, activities and programs.
+
+
+Admin Interface
+Username: Admin
+Password: 12345
+
+Admin can...
+
+A)Add,Update,Delete Member's Info and Monitors each attendance.
+
+B)Add,Update,Delete Events necessarily upto admin heart's content for the church activities.
+
+c)Advertise it through projector so the elderly will be able to see even from afar.

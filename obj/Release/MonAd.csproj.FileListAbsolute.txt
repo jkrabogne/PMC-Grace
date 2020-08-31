@@ -1,0 +1,16 @@
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Release\MonAd.mdf
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Release\MonAd_log.ldf
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Release\MonAd.exe.config
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Release\MonAd.exe
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Release\MonAd.pdb
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.csprojAssemblyReference.cache
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.Admin.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.Events.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.Login.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.Properties.Resources.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.Update.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.Welcome.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.csproj.GenerateResource.cache
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.csproj.CoreCompileInputs.cache
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.exe
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Release\MonAd.pdb

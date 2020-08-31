@@ -1,0 +1,78 @@
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Debug\MonAd.exe.config
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Debug\MonAd.exe
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Debug\MonAd.pdb
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.Admin.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.Events.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.Login.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.Properties.Resources.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.Update.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.Welcome.resources
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.GenerateResource.cache
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.CoreCompileInputs.cache
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.exe
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.pdb
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\obj\Debug\MonAd.csprojAssemblyReference.cache
+C:\MonAd\MonAd\MonAd\bin\Debug\MonAd.exe.config
+C:\MonAd\MonAd\MonAd\bin\Debug\MonAd.exe
+C:\MonAd\MonAd\MonAd\bin\Debug\MonAd.pdb
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.csprojAssemblyReference.cache
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.Admin.resources
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.Events.resources
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.Login.resources
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.Properties.Resources.resources
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.Update.resources
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.Welcome.resources
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.GenerateResource.cache
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.CoreCompileInputs.cache
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.exe
+C:\MonAd\MonAd\MonAd\obj\Debug\MonAd.pdb
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Debug\MonAd.mdf
+C:\Users\kriziemarie\Desktop\MonAd\MonAd\MonAd\bin\Debug\MonAd_log.ldf
+D:\Programming\MonAd\MonAd\MonAd\bin\Debug\MonAd.mdf
+D:\Programming\MonAd\MonAd\MonAd\bin\Debug\MonAd_log.ldf
+D:\Programming\MonAd\MonAd\MonAd\bin\Debug\MonAd.exe.config
+D:\Programming\MonAd\MonAd\MonAd\bin\Debug\MonAd.exe
+D:\Programming\MonAd\MonAd\MonAd\bin\Debug\MonAd.pdb
+D:\Programming\MonAd\MonAd\MonAd\bin\Debug\VisualReactiveWinForms.dll
+D:\Programming\MonAd\MonAd\MonAd\bin\Debug\VisualReactiveWinForms.xml
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.Admin.resources
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.AdminHome.resources
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.Events.resources
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.Member_info.resources
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.SplashScreen.resources
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.Login.resources
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.Properties.Resources.resources
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.Update.resources
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.GenerateResource.cache
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.CoreCompileInputs.cache
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.CopyComplete
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.exe
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.pdb
+D:\Programming\MonAd\MonAd\MonAd\obj\Debug\MonAd.Attendance.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\bin\Debug\MonAd.mdf
+D:\Programming\Backed up\MonAd\MonAd\MonAd\bin\Debug\MonAd_log.ldf
+D:\Programming\Backed up\MonAd\MonAd\MonAd\bin\Debug\MonAd.exe.config
+D:\Programming\Backed up\MonAd\MonAd\MonAd\bin\Debug\MonAd.exe
+D:\Programming\Backed up\MonAd\MonAd\MonAd\bin\Debug\MonAd.pdb
+D:\Programming\Backed up\MonAd\MonAd\MonAd\bin\Debug\VisualReactiveWinForms.dll
+D:\Programming\Backed up\MonAd\MonAd\MonAd\bin\Debug\VisualReactiveWinForms.xml
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.Admin.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.AdminHome.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.Events.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.Member_info.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.SplashScreen.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.Login.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.Properties.Resources.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.Update.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.Attendance.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.GenerateResource.cache
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.CoreCompileInputs.cache
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.csproj.CopyComplete
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.exe
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.pdb
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.AttendanceList.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.InsertID.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.HistoryLogs.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.Members.resources
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.csprojAssemblyReference.cache
+D:\Programming\Backed up\MonAd\MonAd\MonAd\obj\Debug\MonAd.AddMember.resources
